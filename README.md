@@ -61,17 +61,6 @@ Résultat : **877 articles** collectés entre février et mai 2026
 - Les articles du jour J sont décalés d'un jour pour mesurer leur impact sur les cours du jour J+1
 - Calcul de la variation journalière (`pct_change`) sur le cours de clôture
 
-**Résultats :**
-
-| Contexte | Amplitude moyenne | Direction moyenne |
-|---|---|---|
-| Forte actualité négative | **0.97%** | -0.27% |
-| Actualité calme | **0.70%** | +0.21% |
-
-Le CAC40 varie **0.27% de plus** en valeur absolue après une forte actualité négative.
-La direction tend également à être baissière après une actualité négative (-0.27% vs +0.21%).
-
-> **Note statistique :** p-value = 0.20 — la différence n'est pas statistiquement significative, les résultats sont à interpréter avec prudence.
 
 ---
 
