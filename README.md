@@ -2,7 +2,7 @@
 
 ## Problématique
 
-**Le cours du CAC40 varie-t-il davantage le lendemain d'une forte actualité négative ?**
+**Le CAC40 est-il influencé par l'actualité mondiale ? ?**
 
 ---
 
